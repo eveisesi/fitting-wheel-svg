@@ -254,13 +254,6 @@
          <image y="138.3587" x="10.949366" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
       </g>
       <g class="ammo">
-         <g style="stroke-width:3.00013" transform="matrix(0.02554601,-0.3325412,0.33213588,0.02555528,7.9933756,174.75717)">
-            <g style="fill:none;stroke-width:3.00012" transform="translate(-168.81042,-36.38373)">
-               <g style="fill:none;stroke-width:3.00012">
-                  <path style="fill:none;stroke-width:3.00012" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
-               </g>
-            </g>
-         </g>
          <image y="144.85721" x="42.035431" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
       </g>
    </g>
@@ -278,13 +271,6 @@
          <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="17.345249" y="104.54626"/>
       </g>
       <g class="ammo">
-         <g transform="matrix(0.10446337,-0.31671447,0.31632905,0.10449322,10.714271,136.22175)" style="stroke-width:3.00013">
-            <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:3.00012">
-               <g style="fill:none;stroke-width:3.00012">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.00012"/>
-               </g>
-            </g>
-         </g>
          <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="47.053497" y="118.16845"/>
       </g>
    </g>
