@@ -1,606 +1,606 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 335 335" y="0px" x="0px" id="Layer_1" version="1.1" sodipodi:docname="tyrannis-plain.svg" inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
-   <g transform="rotate(6.0635716,267.24729,251.70374)" id="g2709">
-      <g transform="rotate(-6.0635716,-367.65688,1252.6236)" id="g2101">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 335 335" y="0px" x="0px" version="1.1" sodipodi:docname="tyrannis-plain.svg" inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   <g transform="rotate(6.0635716,267.24729,251.70374)">
+      <g transform="rotate(-6.0635716,-367.65688,1252.6236)">
          <!--Inner Gray Border-->
-         <path id="path1265" d="m 362.917,191.729 4.112,-7.122 h -8.224 -8.182 C 332.858,159.167 303.382,142.51 270,142.51 c -33.383,0 -62.858,16.657 -80.623,42.097 h -8.13 -8.224 l 4.112,7.122 4.031,6.982 c -6.057,12.76 -9.456,27.026 -9.456,42.09 0,15.393 3.562,29.944 9.871,42.911 h 5.285 5.858 l -2.929,5.074 -2.743,4.75 c 16.119,25.284 43.487,42.701 75.056,45.212 l 3.78,6.547 4.112,7.122 4.112,-7.122 3.78,-6.547 c 31.619,-2.515 59.027,-19.982 75.136,-45.332 l -2.673,-4.63 -2.929,-5.074 h 5.858 5.135 c 6.309,-12.967 9.871,-27.518 9.871,-42.911 0,-15.044 -3.391,-29.292 -9.433,-42.039 z m 1.857,49.073 c 0,13.741 -2.886,26.983 -8.581,39.396 h -14.856 l 7.565,13.109 c -16.037,24.021 -42.532,39.648 -71.29,41.936 l -1.843,0.147 -5.771,9.996 -5.768,-9.996 -1.843,-0.147 c -28.699,-2.282 -55.162,-17.865 -71.21,-41.822 l 7.634,-13.223 h -15.004 c -5.695,-12.413 -8.581,-25.655 -8.581,-39.396 0,-14.185 3.067,-27.839 9.117,-40.581 l 0.79,-1.669 -6.02,-10.429 h 12.097 l 1.048,-1.504 c 17.751,-25.417 46.812,-40.593 77.741,-40.593 30.929,0 59.992,15.176 77.743,40.593 l 1.048,1.504 h 12.148 l -6.047,10.479 0.79,1.666 c 6.033,12.734 9.093,26.372 9.093,40.534 z" fill="#a5a5a5"/>
+         <path d="m 362.917,191.729 4.112,-7.122 h -8.224 -8.182 C 332.858,159.167 303.382,142.51 270,142.51 c -33.383,0 -62.858,16.657 -80.623,42.097 h -8.13 -8.224 l 4.112,7.122 4.031,6.982 c -6.057,12.76 -9.456,27.026 -9.456,42.09 0,15.393 3.562,29.944 9.871,42.911 h 5.285 5.858 l -2.929,5.074 -2.743,4.75 c 16.119,25.284 43.487,42.701 75.056,45.212 l 3.78,6.547 4.112,7.122 4.112,-7.122 3.78,-6.547 c 31.619,-2.515 59.027,-19.982 75.136,-45.332 l -2.673,-4.63 -2.929,-5.074 h 5.858 5.135 c 6.309,-12.967 9.871,-27.518 9.871,-42.911 0,-15.044 -3.391,-29.292 -9.433,-42.039 z m 1.857,49.073 c 0,13.741 -2.886,26.983 -8.581,39.396 h -14.856 l 7.565,13.109 c -16.037,24.021 -42.532,39.648 -71.29,41.936 l -1.843,0.147 -5.771,9.996 -5.768,-9.996 -1.843,-0.147 c -28.699,-2.282 -55.162,-17.865 -71.21,-41.822 l 7.634,-13.223 h -15.004 c -5.695,-12.413 -8.581,-25.655 -8.581,-39.396 0,-14.185 3.067,-27.839 9.117,-40.581 l 0.79,-1.669 -6.02,-10.429 h 12.097 l 1.048,-1.504 c 17.751,-25.417 46.812,-40.593 77.741,-40.593 30.929,0 59.992,15.176 77.743,40.593 l 1.048,1.504 h 12.148 l -6.047,10.479 0.79,1.666 c 6.033,12.734 9.093,26.372 9.093,40.534 z" fill="#a5a5a5"/>
          <!--Outer Gray Border-->
-         <path id="path1267" d="m 414.267,162.301 -1,-1.833 h -8.89 l 4.347,-7.533 -1.181,-1.808 C 377.051,104.452 325.634,76.586 270,76.586 c -55.268,0 -106.497,27.575 -137.044,73.765 l -1.199,1.813 4.793,8.304 h -9.815 l -1,1.833 c -13.049,23.931 -19.948,51.076 -19.948,78.501 0,87.661 68.53,159.702 156.015,164.008 l 2.145,0.105 6.054,-10.488 6.057,10.488 2.143,-0.105 c 87.487,-4.306 156.017,-76.347 156.017,-164.008 -0.003,-27.425 -6.902,-54.57 -19.951,-78.501 z m -136.24,238.997 -3.915,-6.781 -4.112,-7.122 -4.112,7.122 -3.915,6.781 C 176.951,397.115 109.3,326.861 109.3,240.801 c 0,-27.825 7.077,-53.996 19.522,-76.818 h 5.594 8.224 l -4.112,-7.122 -2.639,-4.571 C 164.646,108.802 213.961,80.101 270,80.101 c 56.362,0 105.913,29.039 134.599,72.947 l -2.201,3.813 -4.112,7.122 h 8.224 4.669 c 12.445,22.823 19.522,48.993 19.522,76.818 -0.001,86.06 -67.652,156.314 -152.674,160.497 z" fill="#a5a5a5"/>
+         <path d="m 414.267,162.301 -1,-1.833 h -8.89 l 4.347,-7.533 -1.181,-1.808 C 377.051,104.452 325.634,76.586 270,76.586 c -55.268,0 -106.497,27.575 -137.044,73.765 l -1.199,1.813 4.793,8.304 h -9.815 l -1,1.833 c -13.049,23.931 -19.948,51.076 -19.948,78.501 0,87.661 68.53,159.702 156.015,164.008 l 2.145,0.105 6.054,-10.488 6.057,10.488 2.143,-0.105 c 87.487,-4.306 156.017,-76.347 156.017,-164.008 -0.003,-27.425 -6.902,-54.57 -19.951,-78.501 z m -136.24,238.997 -3.915,-6.781 -4.112,-7.122 -4.112,7.122 -3.915,6.781 C 176.951,397.115 109.3,326.861 109.3,240.801 c 0,-27.825 7.077,-53.996 19.522,-76.818 h 5.594 8.224 l -4.112,-7.122 -2.639,-4.571 C 164.646,108.802 213.961,80.101 270,80.101 c 56.362,0 105.913,29.039 134.599,72.947 l -2.201,3.813 -4.112,7.122 h 8.224 4.669 c 12.445,22.823 19.522,48.993 19.522,76.818 -0.001,86.06 -67.652,156.314 -152.674,160.497 z" fill="#a5a5a5"/>
          <!--Dark Blue Background-->
-         <path id="path1269" d="m 411.178,163.982 h -4.669 -8.224 l 4.112,-7.122 2.201,-3.813 C 375.913,109.139 326.362,80.101 270,80.101 c -56.039,0 -105.354,28.702 -134.112,72.188 l 2.639,4.571 4.112,7.122 h -8.224 -5.594 c -12.444,22.823 -19.521,48.993 -19.521,76.819 0,86.06 67.651,156.314 152.673,160.497 l 3.915,-6.781 4.112,-7.122 4.112,7.122 3.915,6.781 C 363.05,397.115 430.7,326.861 430.7,240.801 c 0,-27.826 -7.077,-53.996 -19.522,-76.819 z m -52.759,119.73 h -5.135 -5.858 l 2.929,5.074 2.673,4.63 c -16.109,25.351 -43.516,42.817 -75.136,45.332 l -3.78,6.547 -4.112,7.122 -4.112,-7.122 -3.78,-6.547 c -31.569,-2.511 -58.937,-19.927 -75.056,-45.212 l 2.743,-4.75 2.929,-5.074 h -5.858 -5.285 c -6.309,-12.967 -9.871,-27.518 -9.871,-42.911 0,-15.064 3.399,-29.33 9.456,-42.09 l -4.031,-6.982 -4.112,-7.122 h 8.224 8.13 c 17.765,-25.44 47.241,-42.097 80.623,-42.097 33.383,0 62.858,16.657 80.623,42.097 h 8.182 8.224 l -4.112,7.122 -4.06,7.032 c 6.042,12.747 9.433,26.995 9.433,42.039 0,15.394 -3.562,29.945 -9.871,42.912 z" fill="#0d1517"/>
+         <path d="m 411.178,163.982 h -4.669 -8.224 l 4.112,-7.122 2.201,-3.813 C 375.913,109.139 326.362,80.101 270,80.101 c -56.039,0 -105.354,28.702 -134.112,72.188 l 2.639,4.571 4.112,7.122 h -8.224 -5.594 c -12.444,22.823 -19.521,48.993 -19.521,76.819 0,86.06 67.651,156.314 152.673,160.497 l 3.915,-6.781 4.112,-7.122 4.112,7.122 3.915,6.781 C 363.05,397.115 430.7,326.861 430.7,240.801 c 0,-27.826 -7.077,-53.996 -19.522,-76.819 z m -52.759,119.73 h -5.135 -5.858 l 2.929,5.074 2.673,4.63 c -16.109,25.351 -43.516,42.817 -75.136,45.332 l -3.78,6.547 -4.112,7.122 -4.112,-7.122 -3.78,-6.547 c -31.569,-2.511 -58.937,-19.927 -75.056,-45.212 l 2.743,-4.75 2.929,-5.074 h -5.858 -5.285 c -6.309,-12.967 -9.871,-27.518 -9.871,-42.911 0,-15.064 3.399,-29.33 9.456,-42.09 l -4.031,-6.982 -4.112,-7.122 h 8.224 8.13 c 17.765,-25.44 47.241,-42.097 80.623,-42.097 33.383,0 62.858,16.657 80.623,42.097 h 8.182 8.224 l -4.112,7.122 -4.06,7.032 c 6.042,12.747 9.433,26.995 9.433,42.039 0,15.394 -3.562,29.945 -9.871,42.912 z" fill="#0d1517"/>
       </g>
-      <g transform="rotate(0.8700518,4219.9459,-6843.2469)" id="g1907" style="stroke-width:3.91887">
-         <g style="stroke-width:5.00315" id="g4301" transform="matrix(0.78030368,-0.06490446,0.06499453,0.78086534,44.178335,70.640684)" >
-            <g style="stroke-width:3.91887" id="g4219" transform="matrix(1.2771419,-3.5190985e-5,-3.5200215e-5,1.2762174,-75.116656,-67.060546)" >
-               <g style="stroke-width:2.35801" transform="matrix(0.15765499,0.39380324,-0.39361472,0.15757952,443.68182,141.64812)" id="g2109 " style="display: none;">
-                  <g id="g1277" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
-                     <g id="g1275" style="fill:none;stroke-width:2.358">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path1273" style="fill:none;stroke-width:2.358"/>
+      <g transform="rotate(0.8700518,4219.9459,-6843.2469)" style="stroke-width:3.91887">
+         <g style="stroke-width:5.00315" transform="matrix(0.78030368,-0.06490446,0.06499453,0.78086534,44.178335,70.640684)" >
+            <g style="stroke-width:3.91887" transform="matrix(1.2771419,-3.5190985e-5,-3.5200215e-5,1.2762174,-75.116656,-67.060546)" >
+               <g style="stroke-width:2.35801" transform="matrix(0.15765499,0.39380324,-0.39361472,0.15757952,443.68182,141.64812)" >
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
+                     <g style="fill:none;stroke-width:2.358">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.358"/>
                      </g>
                   </g>
-                  <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect1297" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
+                  <rect style="fill:#999;stroke:none;stroke-width:2.358" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
                </g>
-               <g style="stroke-width:2.35801" transform="matrix(0.05780365,0.42023187,-0.4200307,0.05777599,462.43334,187.33672)" id="g2109-0-9">
-                  <g id="g1277-7-0" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
-                     <g id="g1275-7-0" style="fill:none;stroke-width:2.358">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path1273-0-8" style="fill:none;stroke-width:2.358"/>
+               <g style="stroke-width:2.35801" transform="matrix(0.05780365,0.42023187,-0.4200307,0.05777599,462.43334,187.33672)">
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
+                     <g style="fill:none;stroke-width:2.358">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.358"/>
                      </g>
                   </g>
-                  <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect1297-7-2" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
+                  <rect style="fill:#999;stroke:none;stroke-width:2.358" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
                </g>
-               <g id="g2109-0-9-1" transform="matrix(-0.04876714,0.42137615,-0.42117443,-0.04874379,469.4857,236.73179)" style="stroke-width:2.35801">
-                  <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)" id="g1277-7-0-7">
-                     <g style="fill:none;stroke-width:2.358" id="g1275-7-0-1">
-                        <path style="fill:none;stroke-width:2.358" id="path1273-0-8-3" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               <g transform="matrix(-0.04876714,0.42137615,-0.42117443,-0.04874379,469.4857,236.73179)" style="stroke-width:2.35801">
+                  <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)">
+                     <g style="fill:none;stroke-width:2.358">
+                        <path style="fill:none;stroke-width:2.358" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                      </g>
                   </g>
-                  <rect rx="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" ry="0" y="-64.67881" x="125.19523" height="5" width="20" id="rect1297-7-2-0" style="fill:#999;stroke:none;stroke-width:2.358"/>
+                  <rect rx="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" ry="0" y="-64.67881" x="125.19523" height="5" width="20" style="fill:#999;stroke:none;stroke-width:2.358"/>
                </g>
-               <g style="stroke-width:2.35801" transform="matrix(-0.14692577,0.39793078,-0.39774029,-0.14685543,464.18243,285.34722)" id="g2109-0-9-1-9">
-                  <g id="g1277-7-0-7-6" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
-                     <g id="g1275-7-0-1-7" style="fill:none;stroke-width:2.358">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path1273-0-8-3-3" style="fill:none;stroke-width:2.358"/>
+               <g style="stroke-width:2.35801" transform="matrix(-0.14692577,0.39793078,-0.39774029,-0.14685543,464.18243,285.34722)">
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
+                     <g style="fill:none;stroke-width:2.358">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.358"/>
                      </g>
                   </g>
-                  <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect1297-7-2-0-6" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
+                  <rect style="fill:#999;stroke:none;stroke-width:2.358" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
                </g>
-               <g id="g2109-0-9-1-9-4" transform="matrix(-0.23446816,0.35349792,-0.3533287,-0.2343559,447.86493,330.83868)" style="stroke-width:2.35801">
-                  <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)" id="g1277-7-0-7-6-0">
-                     <g style="fill:none;stroke-width:2.358" id="g1275-7-0-1-7-2">
-                        <path style="fill:none;stroke-width:2.358" id="path1273-0-8-3-3-7" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               <g transform="matrix(-0.23446816,0.35349792,-0.3533287,-0.2343559,447.86493,330.83868)" style="stroke-width:2.35801">
+                  <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)">
+                     <g style="fill:none;stroke-width:2.358">
+                        <path style="fill:none;stroke-width:2.358" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                      </g>
                   </g>
-                  <rect rx="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" ry="0" y="-64.67881" x="125.19523" height="5" width="20" id="rect1297-7-2-0-6-9" style="fill:#999;stroke:none;stroke-width:2.358"/>
+                  <rect rx="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" ry="0" y="-64.67881" x="125.19523" height="5" width="20" style="fill:#999;stroke:none;stroke-width:2.358"/>
                </g>
-               <g style="stroke-width:2.35801" transform="matrix(-0.31854436,0.2801171,-0.27998301,-0.31839187,419.77624,373.43604)" id="g2109-0-9-1-9-4-7">
-                  <g id="g1277-7-0-7-6-0-4" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
-                     <g id="g1275-7-0-1-7-2-3" style="fill:none;stroke-width:2.358">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path1273-0-8-3-3-7-5" style="fill:none;stroke-width:2.358"/>
+               <g style="stroke-width:2.35801" transform="matrix(-0.31854436,0.2801171,-0.27998301,-0.31839187,419.77624,373.43604)">
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
+                     <g style="fill:none;stroke-width:2.358">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.358"/>
                      </g>
                   </g>
-                  <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect1297-7-2-0-6-9-9" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
+                  <rect style="fill:#999;stroke:none;stroke-width:2.358" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
                </g>
-               <g id="g2109-0-9-1-9-4-7-6" transform="matrix(-0.37629224,0.19580667,-0.19571294,-0.3761121,382.81626,406.29738)" style="stroke-width:2.35801">
-                  <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)" id="g1277-7-0-7-6-0-4-8">
-                     <g style="fill:none;stroke-width:2.358" id="g1275-7-0-1-7-2-3-7">
-                        <path style="fill:none;stroke-width:2.358" id="path1273-0-8-3-3-7-5-8" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               <g transform="matrix(-0.37629224,0.19580667,-0.19571294,-0.3761121,382.81626,406.29738)" style="stroke-width:2.35801">
+                  <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)">
+                     <g style="fill:none;stroke-width:2.358">
+                        <path style="fill:none;stroke-width:2.358" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                      </g>
                   </g>
-                  <rect rx="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" ry="0" y="-64.67881" x="125.19523" height="5" width="20" id="rect1297-7-2-0-6-9-9-1" style="fill:#999;stroke:none;stroke-width:2.358"/>
+                  <rect rx="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" ry="0" y="-64.67881" x="125.19523" height="5" width="20" style="fill:#999;stroke:none;stroke-width:2.358"/>
                </g>
-               <g style="stroke-width:2.35801" transform="matrix(-0.41153375,0.10284,-0.10279076,-0.41133675,339.66161,429.11812)" id="g4177">
-                  <g id="g4173" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
-                     <g id="g4171" style="fill:none;stroke-width:2.358">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4169" style="fill:none;stroke-width:2.358"/>
+               <g style="stroke-width:2.35801" transform="matrix(-0.41153375,0.10284,-0.10279076,-0.41133675,339.66161,429.11812)">
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
+                     <g style="fill:none;stroke-width:2.358">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.358"/>
                      </g>
                   </g>
-                  <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect4175" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
+                  <rect style="fill:#999;stroke:none;stroke-width:2.358" width="20" height="5" x="125.19523" y="-64.67881" ry="0" transform="matrix(0.00221434,0.99999755,-0.99999467,0.00326547,0,0)" rx="0"/>
                </g>
             </g>
-            <g style="stroke-width:4.96105" transform="matrix(1.0084997,-1.079884e-6,-1.0798841e-6,1.0084714,-3.1052318,-1.420753)" id="g4335">
-               <g style="stroke-width:2.9851" transform="matrix(0.15765499,0.39380324,-0.39361472,0.15757952,443.68182,141.64812)" id="g4229">
-                  <g id="g4225" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
-                     <g id="g4223" style="fill:none;stroke-width:2.98509">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4221" style="fill:none;stroke-width:2.98509"/>
-                     </g>
-                  </g>
-               </g>
-               <g style="stroke-width:2.9851" transform="matrix(0.05780365,0.42023187,-0.4200307,0.05777599,462.43334,187.33672)" id="g4239">
-                  <g id="g4235" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
-                     <g id="g4233" style="fill:none;stroke-width:2.98509">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4231" style="fill:none;stroke-width:2.98509"/>
+            <g style="stroke-width:4.96105" transform="matrix(1.0084997,-1.079884e-6,-1.0798841e-6,1.0084714,-3.1052318,-1.420753)">
+               <g style="stroke-width:2.9851" transform="matrix(0.15765499,0.39380324,-0.39361472,0.15757952,443.68182,141.64812)">
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
+                     <g style="fill:none;stroke-width:2.98509">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.98509"/>
                      </g>
                   </g>
                </g>
-               <g id="g4249" transform="matrix(-0.04876714,0.42137615,-0.42117443,-0.04874379,469.4857,236.73179)" style="stroke-width:2.9851">
-                  <g style="fill:none;stroke-width:2.98509" transform="translate(-168.81042,-36.38373)" id="g4245">
-                     <g style="fill:none;stroke-width:2.98509" id="g4243">
-                        <path style="fill:none;stroke-width:2.98509" id="path4241" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               <g style="stroke-width:2.9851" transform="matrix(0.05780365,0.42023187,-0.4200307,0.05777599,462.43334,187.33672)">
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
+                     <g style="fill:none;stroke-width:2.98509">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.98509"/>
                      </g>
                   </g>
                </g>
-               <g style="stroke-width:2.9851" transform="matrix(-0.14692577,0.39793078,-0.39774029,-0.14685543,464.18243,285.34722)" id="g4259">
-                  <g id="g4255" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
-                     <g id="g4253" style="fill:none;stroke-width:2.98509">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4251" style="fill:none;stroke-width:2.98509"/>
+               <g transform="matrix(-0.04876714,0.42137615,-0.42117443,-0.04874379,469.4857,236.73179)" style="stroke-width:2.9851">
+                  <g style="fill:none;stroke-width:2.98509" transform="translate(-168.81042,-36.38373)">
+                     <g style="fill:none;stroke-width:2.98509">
+                        <path style="fill:none;stroke-width:2.98509" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                      </g>
                   </g>
                </g>
-               <g id="g4269" transform="matrix(-0.23446816,0.35349792,-0.3533287,-0.2343559,447.86493,330.83868)" style="stroke-width:2.9851">
-                  <g style="fill:none;stroke-width:2.98509" transform="translate(-168.81042,-36.38373)" id="g4265">
-                     <g style="fill:none;stroke-width:2.98509" id="g4263">
-                        <path style="fill:none;stroke-width:2.98509" id="path4261" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               <g style="stroke-width:2.9851" transform="matrix(-0.14692577,0.39793078,-0.39774029,-0.14685543,464.18243,285.34722)">
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
+                     <g style="fill:none;stroke-width:2.98509">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.98509"/>
                      </g>
                   </g>
                </g>
-               <g style="stroke-width:2.9851" transform="matrix(-0.31854436,0.2801171,-0.27998301,-0.31839187,419.77624,373.43604)" id="g4279">
-                  <g id="g4275" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
-                     <g id="g4273" style="fill:none;stroke-width:2.98509">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4271" style="fill:none;stroke-width:2.98509"/>
+               <g transform="matrix(-0.23446816,0.35349792,-0.3533287,-0.2343559,447.86493,330.83868)" style="stroke-width:2.9851">
+                  <g style="fill:none;stroke-width:2.98509" transform="translate(-168.81042,-36.38373)">
+                     <g style="fill:none;stroke-width:2.98509">
+                        <path style="fill:none;stroke-width:2.98509" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                      </g>
                   </g>
                </g>
-               <g id="g4289" transform="matrix(-0.37629224,0.19580667,-0.19571294,-0.3761121,382.81626,406.29738)" style="stroke-width:2.9851">
-                  <g style="fill:none;stroke-width:2.98509" transform="translate(-168.81042,-36.38373)" id="g4285">
-                     <g style="fill:none;stroke-width:2.98509" id="g4283">
-                        <path style="fill:none;stroke-width:2.98509" id="path4281" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               <g style="stroke-width:2.9851" transform="matrix(-0.31854436,0.2801171,-0.27998301,-0.31839187,419.77624,373.43604)">
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
+                     <g style="fill:none;stroke-width:2.98509">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.98509"/>
                      </g>
                   </g>
                </g>
-               <g style="stroke-width:2.9851" transform="matrix(-0.41153375,0.10284,-0.10279076,-0.41133675,339.66161,429.11812)" id="g4299">
-                  <g id="g4295" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
-                     <g id="g4293" style="fill:none;stroke-width:2.98509">
-                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4291" style="fill:none;stroke-width:2.98509"/>
+               <g transform="matrix(-0.37629224,0.19580667,-0.19571294,-0.3761121,382.81626,406.29738)" style="stroke-width:2.9851">
+                  <g style="fill:none;stroke-width:2.98509" transform="translate(-168.81042,-36.38373)">
+                     <g style="fill:none;stroke-width:2.98509">
+                        <path style="fill:none;stroke-width:2.98509" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                      </g>
                   </g>
                </g>
-            </g>
-         </g>
-      </g>
-      <g transform="rotate(1.8217274,2210.8345,-3127.2042)" id="g3971">
-         <g transform="matrix(-0.42266671,-0.03590204,0.03588485,-0.42246435,277.1433,445.33241)" id="g2784" style="stroke-width:2.35801">
-            <g id="g1277-7" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
-               <g id="g1275-0" style="fill:none;stroke-width:2.358">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path1273-9" style="fill:none;stroke-width:2.358"/>
-               </g>
-            </g>
-            <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect1297-1" width="19.990425" height="5.0023947" x="-58.949261" y="-140.019" ry="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" rx="0"/>
-            <rect rx="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" ry="0" y="-139.82927" x="-87.768166" height="5.0023947" width="19.990425" id="rect1297-1-9" style="fill:#999;stroke:none;stroke-width:2.358"/>
-         </g>
-         <g style="stroke-width:2.35801" id="g3849" transform="matrix(-0.40181198,-0.13595305,0.13588796,-0.40161961,228.32507,441.55495)">
-            <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)" id="g3843">
-               <g style="fill:none;stroke-width:2.358" id="g3841">
-                  <path style="fill:none;stroke-width:2.358" id="path3839" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
-               </g>
-            </g>
-            <rect rx="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" ry="0" y="-140.019" x="-58.949261" height="5.0023947" width="19.990425" id="rect3845" style="fill:#999;stroke:none;stroke-width:2.358"/>
-            <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect3847" width="19.990425" height="5.0023947" x="-87.768166" y="-139.82927" ry="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" rx="0"/>
-         </g>
-         <g transform="matrix(-0.35946379,-0.2252152,0.22510737,-0.3592917,182.52276,426.4308)" id="g3861" style="stroke-width:2.35801">
-            <g id="g3855" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
-               <g id="g3853" style="fill:none;stroke-width:2.358">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path3851" style="fill:none;stroke-width:2.358"/>
-               </g>
-            </g>
-            <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect3857" width="19.990425" height="5.0023947" x="-58.949261" y="-140.019" ry="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" rx="0"/>
-            <rect rx="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" ry="0" y="-139.82927" x="-87.768166" height="5.0023947" width="19.990425" id="rect3859" style="fill:#999;stroke:none;stroke-width:2.358"/>
-         </g>
-         <g style="stroke-width:2.35801" id="g3873" transform="matrix(-0.29381708,-0.30595364,0.30580715,-0.29367642,140.41959,400.36817)">
-            <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)" id="g3867">
-               <g style="fill:none;stroke-width:2.358" id="g3865">
-                  <path style="fill:none;stroke-width:2.358" id="path3863" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
-               </g>
-            </g>
-            <rect rx="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" ry="0" y="-140.019" x="-58.949261" height="5.0023947" width="19.990425" id="rect3869" style="fill:#999;stroke:none;stroke-width:2.358"/>
-            <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect3871" width="19.990425" height="5.0023947" x="-87.768166" y="-139.82927" ry="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" rx="0"/>
-         </g>
-         <g transform="matrix(-0.21323487,-0.36669741,0.36652184,-0.2131328,106.29705,365.51741)" id="g3885" style="stroke-width:2.35801">
-            <g id="g3879" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
-               <g id="g3877" style="fill:none;stroke-width:2.358">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path3875" style="fill:none;stroke-width:2.358"/>
-               </g>
-            </g>
-            <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect3881" width="19.990425" height="5.0023947" x="-58.949261" y="-140.019" ry="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" rx="0"/>
-            <rect rx="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" ry="0" y="-139.82927" x="-87.768166" height="5.0023947" width="19.990425" id="rect3883" style="fill:#999;stroke:none;stroke-width:2.358"/>
-         </g>
-         <g style="stroke-width:2.35801" id="g3897" transform="matrix(-0.12267419,-0.40606298,0.40586857,-0.12261547,81.574533,324.00014)">
-            <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)" id="g3891">
-               <g style="fill:none;stroke-width:2.358" id="g3889">
-                  <path style="fill:none;stroke-width:2.358" id="path3887" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
-               </g>
-            </g>
-            <rect rx="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" ry="0" y="-140.019" x="-58.949261" height="5.0023947" width="19.990425" id="rect3893" style="fill:#999;stroke:none;stroke-width:2.358"/>
-            <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect3895" width="19.990425" height="5.0023947" x="-87.768166" y="-139.82927" ry="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" rx="0"/>
-         </g>
-         <g transform="matrix(-0.02360417,-0.42353151,0.42332874,-0.02359288,67.117777,277.53614)" id="g3909" style="stroke-width:2.35801">
-            <g id="g3903" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
-               <g id="g3901" style="fill:none;stroke-width:2.358">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path3899" style="fill:none;stroke-width:2.358"/>
-               </g>
-            </g>
-            <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect3905" width="19.990425" height="5.0023947" x="-58.949261" y="-140.019" ry="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" rx="0"/>
-            <rect rx="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" ry="0" y="-139.82927" x="-87.768166" height="5.0023947" width="19.990425" id="rect3907" style="fill:#999;stroke:none;stroke-width:2.358"/>
-         </g>
-         <g style="stroke-width:2.35801" id="g3921" transform="matrix(0.07861894,-0.4168395,0.41663992,0.07858129,64.080425,228.49684)">
-            <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)" id="g3915">
-               <g style="fill:none;stroke-width:2.358" id="g3913">
-                  <path style="fill:none;stroke-width:2.358" id="path3911" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
-               </g>
-            </g>
-            <rect rx="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" ry="0" y="-140.019" x="-58.949261" height="5.0023947" width="19.990425" id="rect3917" style="fill:#999;stroke:none;stroke-width:2.358"/>
-            <rect style="fill:#999;stroke:none;stroke-width:2.358" id="rect3919" width="19.990425" height="5.0023947" x="-87.768166" y="-139.82927" ry="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" rx="0"/>
-         </g>
-      </g>
-      <g style="stroke-width:1.27232" id="g4167" transform="matrix(0.78540873,0.02095666,-0.02081326,0.7859735,-45.622644,-16.969482)">
-         <g style="stroke-width:3.00013" id="g4081" transform="matrix(-0.42266671,-0.03590204,0.03588485,-0.42246435,277.1433,445.33241)">
-            <g style="fill:none;stroke-width:3.00012" transform="translate(-168.81042,-36.38373)" id="g4075">
-               <g style="fill:none;stroke-width:3.00012" id="g4073">
-                  <path style="fill:none;stroke-width:3.00012" id="path4071" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
-               </g>
-            </g>
-         </g>
-         <g transform="matrix(-0.40181198,-0.13595305,0.13588796,-0.40161961,228.32507,441.55495)" id="g4093" style="stroke-width:3.00013">
-            <g id="g4087" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:3.00012">
-               <g id="g4085" style="fill:none;stroke-width:3.00012">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4083" style="fill:none;stroke-width:3.00012"/>
-               </g>
-            </g>
-         </g>
-         <g style="stroke-width:3.00013" id="g4105" transform="matrix(-0.35946379,-0.2252152,0.22510737,-0.3592917,182.52276,426.4308)">
-            <g style="fill:none;stroke-width:3.00012" transform="translate(-168.81042,-36.38373)" id="g4099">
-               <g style="fill:none;stroke-width:3.00012" id="g4097">
-                  <path style="fill:none;stroke-width:3.00012" id="path4095" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
-               </g>
-            </g>
-         </g>
-         <g transform="matrix(-0.29381708,-0.30595364,0.30580715,-0.29367642,140.41959,400.36817)" id="g4117" style="stroke-width:3.00013">
-            <g id="g4111" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:3.00012">
-               <g id="g4109" style="fill:none;stroke-width:3.00012">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4107" style="fill:none;stroke-width:3.00012"/>
-               </g>
-            </g>
-         </g>
-         <g style="stroke-width:3.00013" id="g4129" transform="matrix(-0.21323487,-0.36669741,0.36652184,-0.2131328,106.29705,365.51741)">
-            <g style="fill:none;stroke-width:3.00012" transform="translate(-168.81042,-36.38373)" id="g4123">
-               <g style="fill:none;stroke-width:3.00012" id="g4121">
-                  <path style="fill:none;stroke-width:3.00012" id="path4119" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
-               </g>
-            </g>
-         </g>
-         <g transform="matrix(-0.12267419,-0.40606298,0.40586857,-0.12261547,81.574533,324.00014)" id="g4141" style="stroke-width:3.00013">
-            <g id="g4135" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:3.00012">
-               <g id="g4133" style="fill:none;stroke-width:3.00012">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4131" style="fill:none;stroke-width:3.00012"/>
-               </g>
-            </g>
-         </g>
-         <g style="stroke-width:3.00013" id="g4153" transform="matrix(-0.02360417,-0.42353151,0.42332874,-0.02359288,67.117777,277.53614)">
-            <g style="fill:none;stroke-width:3.00012" transform="translate(-168.81042,-36.38373)" id="g4147">
-               <g style="fill:none;stroke-width:3.00012" id="g4145">
-                  <path style="fill:none;stroke-width:3.00012" id="path4143" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
-               </g>
-            </g>
-         </g>
-         <g transform="matrix(0.07861894,-0.4168395,0.41663992,0.07858129,64.080425,228.49684)" id="g4165" style="stroke-width:3.00013">
-            <g id="g4159" transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:3.00012">
-               <g id="g4157" style="fill:none;stroke-width:3.00012">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path4155" style="fill:none;stroke-width:3.00012"/>
+               <g style="stroke-width:2.9851" transform="matrix(-0.41153375,0.10284,-0.10279076,-0.41133675,339.66161,429.11812)">
+                  <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.98509">
+                     <g style="fill:none;stroke-width:2.98509">
+                        <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.98509"/>
+                     </g>
+                  </g>
                </g>
             </g>
          </g>
       </g>
-      <g id="g390" transform="matrix(0.9675055,0.03054226,-0.03617291,0.93595837,-92.619207,-60.924603)" style="stroke-width:1.05022">
-         <g transform="matrix(0.23584164,-0.35258307,0.35241427,0.23572873,59.568186,189.16732)" id="g2866" style="stroke-width:2.47643">
-            <g id="g2874" transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
-               <g id="g1277-7-6" transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:2.47642">
-                  <g id="g1275-0-7" style="fill:none;stroke-width:2.47642">
-                     <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path1273-9-1" style="fill:none;stroke-width:2.47642"/>
+      <g transform="rotate(1.8217274,2210.8345,-3127.2042)">
+         <g transform="matrix(-0.42266671,-0.03590204,0.03588485,-0.42246435,277.1433,445.33241)" style="stroke-width:2.35801">
+            <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
+               <g style="fill:none;stroke-width:2.358">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.358"/>
+               </g>
+            </g>
+            <rect style="fill:#999;stroke:none;stroke-width:2.358" width="19.990425" height="5.0023947" x="-58.949261" y="-140.019" ry="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" rx="0"/>
+            <rect rx="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" ry="0" y="-139.82927" x="-87.768166" height="5.0023947" width="19.990425" style="fill:#999;stroke:none;stroke-width:2.358"/>
+         </g>
+         <g style="stroke-width:2.35801" transform="matrix(-0.40181198,-0.13595305,0.13588796,-0.40161961,228.32507,441.55495)">
+            <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)">
+               <g style="fill:none;stroke-width:2.358">
+                  <path style="fill:none;stroke-width:2.358" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               </g>
+            </g>
+            <rect rx="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" ry="0" y="-140.019" x="-58.949261" height="5.0023947" width="19.990425" style="fill:#999;stroke:none;stroke-width:2.358"/>
+            <rect style="fill:#999;stroke:none;stroke-width:2.358" width="19.990425" height="5.0023947" x="-87.768166" y="-139.82927" ry="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" rx="0"/>
+         </g>
+         <g transform="matrix(-0.35946379,-0.2252152,0.22510737,-0.3592917,182.52276,426.4308)" style="stroke-width:2.35801">
+            <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
+               <g style="fill:none;stroke-width:2.358">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.358"/>
+               </g>
+            </g>
+            <rect style="fill:#999;stroke:none;stroke-width:2.358" width="19.990425" height="5.0023947" x="-58.949261" y="-140.019" ry="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" rx="0"/>
+            <rect rx="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" ry="0" y="-139.82927" x="-87.768166" height="5.0023947" width="19.990425" style="fill:#999;stroke:none;stroke-width:2.358"/>
+         </g>
+         <g style="stroke-width:2.35801" transform="matrix(-0.29381708,-0.30595364,0.30580715,-0.29367642,140.41959,400.36817)">
+            <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)">
+               <g style="fill:none;stroke-width:2.358">
+                  <path style="fill:none;stroke-width:2.358" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               </g>
+            </g>
+            <rect rx="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" ry="0" y="-140.019" x="-58.949261" height="5.0023947" width="19.990425" style="fill:#999;stroke:none;stroke-width:2.358"/>
+            <rect style="fill:#999;stroke:none;stroke-width:2.358" width="19.990425" height="5.0023947" x="-87.768166" y="-139.82927" ry="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" rx="0"/>
+         </g>
+         <g transform="matrix(-0.21323487,-0.36669741,0.36652184,-0.2131328,106.29705,365.51741)" style="stroke-width:2.35801">
+            <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
+               <g style="fill:none;stroke-width:2.358">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.358"/>
+               </g>
+            </g>
+            <rect style="fill:#999;stroke:none;stroke-width:2.358" width="19.990425" height="5.0023947" x="-58.949261" y="-140.019" ry="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" rx="0"/>
+            <rect rx="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" ry="0" y="-139.82927" x="-87.768166" height="5.0023947" width="19.990425" style="fill:#999;stroke:none;stroke-width:2.358"/>
+         </g>
+         <g style="stroke-width:2.35801" transform="matrix(-0.12267419,-0.40606298,0.40586857,-0.12261547,81.574533,324.00014)">
+            <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)">
+               <g style="fill:none;stroke-width:2.358">
+                  <path style="fill:none;stroke-width:2.358" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               </g>
+            </g>
+            <rect rx="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" ry="0" y="-140.019" x="-58.949261" height="5.0023947" width="19.990425" style="fill:#999;stroke:none;stroke-width:2.358"/>
+            <rect style="fill:#999;stroke:none;stroke-width:2.358" width="19.990425" height="5.0023947" x="-87.768166" y="-139.82927" ry="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" rx="0"/>
+         </g>
+         <g transform="matrix(-0.02360417,-0.42353151,0.42332874,-0.02359288,67.117777,277.53614)" style="stroke-width:2.35801">
+            <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:2.358">
+               <g style="fill:none;stroke-width:2.358">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.358"/>
+               </g>
+            </g>
+            <rect style="fill:#999;stroke:none;stroke-width:2.358" width="19.990425" height="5.0023947" x="-58.949261" y="-140.019" ry="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" rx="0"/>
+            <rect rx="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" ry="0" y="-139.82927" x="-87.768166" height="5.0023947" width="19.990425" style="fill:#999;stroke:none;stroke-width:2.358"/>
+         </g>
+         <g style="stroke-width:2.35801" transform="matrix(0.07861894,-0.4168395,0.41663992,0.07858129,64.080425,228.49684)">
+            <g style="fill:none;stroke-width:2.358" transform="translate(-168.81042,-36.38373)">
+               <g style="fill:none;stroke-width:2.358">
+                  <path style="fill:none;stroke-width:2.358" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               </g>
+            </g>
+            <rect rx="0" transform="matrix(-0.99996343,-0.00855174,0.00749557,-0.99997191,0,0)" ry="0" y="-140.019" x="-58.949261" height="5.0023947" width="19.990425" style="fill:#999;stroke:none;stroke-width:2.358"/>
+            <rect style="fill:#999;stroke:none;stroke-width:2.358" width="19.990425" height="5.0023947" x="-87.768166" y="-139.82927" ry="0" transform="matrix(-0.99996343,-0.00855175,0.00749556,-0.99997191,0,0)" rx="0"/>
+         </g>
+      </g>
+      <g style="stroke-width:1.27232" transform="matrix(0.78540873,0.02095666,-0.02081326,0.7859735,-45.622644,-16.969482)">
+         <g style="stroke-width:3.00013" transform="matrix(-0.42266671,-0.03590204,0.03588485,-0.42246435,277.1433,445.33241)">
+            <g style="fill:none;stroke-width:3.00012" transform="translate(-168.81042,-36.38373)">
+               <g style="fill:none;stroke-width:3.00012">
+                  <path style="fill:none;stroke-width:3.00012" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               </g>
+            </g>
+         </g>
+         <g transform="matrix(-0.40181198,-0.13595305,0.13588796,-0.40161961,228.32507,441.55495)" style="stroke-width:3.00013">
+            <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:3.00012">
+               <g style="fill:none;stroke-width:3.00012">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.00012"/>
+               </g>
+            </g>
+         </g>
+         <g style="stroke-width:3.00013" transform="matrix(-0.35946379,-0.2252152,0.22510737,-0.3592917,182.52276,426.4308)">
+            <g style="fill:none;stroke-width:3.00012" transform="translate(-168.81042,-36.38373)">
+               <g style="fill:none;stroke-width:3.00012">
+                  <path style="fill:none;stroke-width:3.00012" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               </g>
+            </g>
+         </g>
+         <g transform="matrix(-0.29381708,-0.30595364,0.30580715,-0.29367642,140.41959,400.36817)" style="stroke-width:3.00013">
+            <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:3.00012">
+               <g style="fill:none;stroke-width:3.00012">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.00012"/>
+               </g>
+            </g>
+         </g>
+         <g style="stroke-width:3.00013" transform="matrix(-0.21323487,-0.36669741,0.36652184,-0.2131328,106.29705,365.51741)">
+            <g style="fill:none;stroke-width:3.00012" transform="translate(-168.81042,-36.38373)">
+               <g style="fill:none;stroke-width:3.00012">
+                  <path style="fill:none;stroke-width:3.00012" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               </g>
+            </g>
+         </g>
+         <g transform="matrix(-0.12267419,-0.40606298,0.40586857,-0.12261547,81.574533,324.00014)" style="stroke-width:3.00013">
+            <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:3.00012">
+               <g style="fill:none;stroke-width:3.00012">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.00012"/>
+               </g>
+            </g>
+         </g>
+         <g style="stroke-width:3.00013" transform="matrix(-0.02360417,-0.42353151,0.42332874,-0.02359288,67.117777,277.53614)">
+            <g style="fill:none;stroke-width:3.00012" transform="translate(-168.81042,-36.38373)">
+               <g style="fill:none;stroke-width:3.00012">
+                  <path style="fill:none;stroke-width:3.00012" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+               </g>
+            </g>
+         </g>
+         <g transform="matrix(0.07861894,-0.4168395,0.41663992,0.07858129,64.080425,228.49684)" style="stroke-width:3.00013">
+            <g transform="translate(-168.81042,-36.38373)" style="fill:none;stroke-width:3.00012">
+               <g style="fill:none;stroke-width:3.00012">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.00012"/>
+               </g>
+            </g>
+         </g>
+      </g>
+      <g transform="matrix(0.9675055,0.03054226,-0.03617291,0.93595837,-92.619207,-60.924603)" style="stroke-width:1.05022">
+         <g transform="matrix(0.23584164,-0.35258307,0.35241427,0.23572873,59.568186,189.16732)" style="stroke-width:2.47643">
+            <g transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
+               <g transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:2.47642">
+                  <g style="fill:none;stroke-width:2.47642">
+                     <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.47642"/>
                   </g>
                </g>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect1297-1-6" width="19.992865" height="5.0017872" x="98.584892" y="264.60129" ry="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" rx="0"/>
-               <rect rx="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" ry="0" y="-216.61035" x="190.78946" height="5.0018005" width="19.992792" id="rect1297-1-9-2" style="fill:#999;stroke:none;stroke-width:2.47642"/>
-               <rect rx="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" ry="0" y="50.329563" x="253.68503" height="5" width="19.999998" id="rect1297-1-6-9" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.992865" height="5.0017872" x="98.584892" y="264.60129" ry="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" rx="0"/>
+               <rect rx="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" ry="0" y="-216.61035" x="190.78946" height="5.0018005" width="19.992792" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect rx="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" ry="0" y="50.329563" x="253.68503" height="5" width="19.999998" style="fill:#999;stroke:none;stroke-width:2.47642"/>
             </g>
          </g>
-         <g style="stroke-width:2.47643" id="g212" transform="matrix(0.31204731,-0.28733704,0.28719947,0.31189791,77.778846,141.22291)">
-            <g transform="translate(120.23686,-139.05355)" id="g210" style="stroke-width:2.47643">
-               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)" id="g202">
-                  <g style="fill:none;stroke-width:2.47642" id="g200">
-                     <path style="fill:none;stroke-width:2.47642" id="path198" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+         <g style="stroke-width:2.47643" transform="matrix(0.31204731,-0.28733704,0.28719947,0.31189791,77.778846,141.22291)">
+            <g transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
+               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)">
+                  <g style="fill:none;stroke-width:2.47642">
+                     <path style="fill:none;stroke-width:2.47642" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                   </g>
                </g>
-               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" id="rect204" style="fill:#999;stroke:none;stroke-width:2.47642"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect206" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect208" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
+               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
             </g>
          </g>
-         <g style="stroke-width:2.47643" id="g244" transform="matrix(0.37267421,-0.20260808,0.20251108,0.37249579,106.91199,98.126728)">
-            <g transform="translate(120.23686,-139.05355)" id="g242" style="stroke-width:2.47643">
-               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)" id="g234">
-                  <g style="fill:none;stroke-width:2.47642" id="g232">
-                     <path style="fill:none;stroke-width:2.47642" id="path230" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+         <g style="stroke-width:2.47643" transform="matrix(0.37267421,-0.20260808,0.20251108,0.37249579,106.91199,98.126728)">
+            <g transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
+               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)">
+                  <g style="fill:none;stroke-width:2.47642">
+                     <path style="fill:none;stroke-width:2.47642" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                   </g>
                </g>
-               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" id="rect236" style="fill:#999;stroke:none;stroke-width:2.47642"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect238" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect240" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
+               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
             </g>
          </g>
-         <g style="stroke-width:2.47643" id="g260" transform="matrix(0.41008195,-0.10848458,0.10843263,0.40988561,145.37763,63.772564)">
-            <g transform="translate(120.23686,-139.05355)" id="g258" style="stroke-width:2.47643">
-               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)" id="g250">
-                  <g style="fill:none;stroke-width:2.47642" id="g248">
-                     <path style="fill:none;stroke-width:2.47642" id="path246" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+         <g style="stroke-width:2.47643" transform="matrix(0.41008195,-0.10848458,0.10843263,0.40988561,145.37763,63.772564)">
+            <g transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
+               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)">
+                  <g style="fill:none;stroke-width:2.47642">
+                     <path style="fill:none;stroke-width:2.47642" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                   </g>
                </g>
-               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" id="rect252" style="fill:#999;stroke:none;stroke-width:2.47642"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect254" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect256" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
+               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
             </g>
          </g>
-         <g transform="matrix(0.42408469,-0.00939595,0.00939143,0.42388164,190.52621,39.7815)" id="g276" style="stroke-width:2.47643">
-            <g id="g274" transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
-               <g id="g266" transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:2.47642">
-                  <g id="g264" style="fill:none;stroke-width:2.47642">
-                     <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path262" style="fill:none;stroke-width:2.47642"/>
+         <g transform="matrix(0.42408469,-0.00939595,0.00939143,0.42388164,190.52621,39.7815)" style="stroke-width:2.47643">
+            <g transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
+               <g transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:2.47642">
+                  <g style="fill:none;stroke-width:2.47642">
+                     <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.47642"/>
                   </g>
                </g>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect268" width="19.992865" height="5.0017872" x="98.584892" y="264.60129" ry="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" rx="0"/>
-               <rect rx="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" ry="0" y="-216.61035" x="190.78946" height="5.0018005" width="19.992792" id="rect270" style="fill:#999;stroke:none;stroke-width:2.47642"/>
-               <rect rx="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" ry="0" y="50.329563" x="253.68503" height="5" width="19.999998" id="rect272" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.992865" height="5.0017872" x="98.584892" y="264.60129" ry="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" rx="0"/>
+               <rect rx="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" ry="0" y="-216.61035" x="190.78946" height="5.0018005" width="19.992792" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect rx="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" ry="0" y="50.329563" x="253.68503" height="5" width="19.999998" style="fill:#999;stroke:none;stroke-width:2.47642"/>
             </g>
          </g>
-         <g style="stroke-width:2.47643" id="g292" transform="matrix(0.41436913,0.09074324,-0.0906998,0.41417072,240.35233,26.878701)">
-            <g transform="translate(120.23686,-139.05355)" id="g290" style="stroke-width:2.47643">
-               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)" id="g282">
-                  <g style="fill:none;stroke-width:2.47642" id="g280">
-                     <path style="fill:none;stroke-width:2.47642" id="path278" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+         <g style="stroke-width:2.47643" transform="matrix(0.41436913,0.09074324,-0.0906998,0.41417072,240.35233,26.878701)">
+            <g transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
+               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)">
+                  <g style="fill:none;stroke-width:2.47642">
+                     <path style="fill:none;stroke-width:2.47642" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                   </g>
                </g>
-               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" id="rect284" style="fill:#999;stroke:none;stroke-width:2.47642"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect286" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect288" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
+               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
             </g>
          </g>
-         <g transform="matrix(0.37987874,0.18875449,-0.18866412,0.37969684,292.43355,26.061813)" id="g308" style="stroke-width:2.47643">
-            <g id="g306" transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
-               <g id="g298" transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:2.47642">
-                  <g id="g296" style="fill:none;stroke-width:2.47642">
-                     <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path294" style="fill:none;stroke-width:2.47642"/>
+         <g transform="matrix(0.37987874,0.18875449,-0.18866412,0.37969684,292.43355,26.061813)" style="stroke-width:2.47643">
+            <g transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
+               <g transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:2.47642">
+                  <g style="fill:none;stroke-width:2.47642">
+                     <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:2.47642"/>
                   </g>
                </g>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect300" width="19.992865" height="5.0017872" x="98.584892" y="264.60129" ry="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" rx="0"/>
-               <rect rx="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" ry="0" y="-216.61035" x="190.78946" height="5.0018005" width="19.992792" id="rect302" style="fill:#999;stroke:none;stroke-width:2.47642"/>
-               <rect rx="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" ry="0" y="50.329563" x="253.68503" height="5" width="19.999998" id="rect304" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.992865" height="5.0017872" x="98.584892" y="264.60129" ry="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" rx="0"/>
+               <rect rx="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" ry="0" y="-216.61035" x="190.78946" height="5.0018005" width="19.992792" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect rx="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" ry="0" y="50.329563" x="253.68503" height="5" width="19.999998" style="fill:#999;stroke:none;stroke-width:2.47642"/>
             </g>
          </g>
-         <g style="stroke-width:2.47643" id="g324" transform="matrix(0.32561043,0.27187122,-0.27174105,0.32545452,342.17535,37.849885)">
-            <g transform="translate(120.23686,-139.05355)" id="g322" style="stroke-width:2.47643">
-               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)" id="g314">
-                  <g style="fill:none;stroke-width:2.47642" id="g312">
-                     <path style="fill:none;stroke-width:2.47642" id="path310" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+         <g style="stroke-width:2.47643" transform="matrix(0.32561043,0.27187122,-0.27174105,0.32545452,342.17535,37.849885)">
+            <g transform="translate(120.23686,-139.05355)" style="stroke-width:2.47643">
+               <g style="fill:none;stroke-width:2.47642" transform="translate(-175.94714,100.15297)">
+                  <g style="fill:none;stroke-width:2.47642">
+                     <path style="fill:none;stroke-width:2.47642" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                   </g>
                </g>
-               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" id="rect316" style="fill:#999;stroke:none;stroke-width:2.47642"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect318" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
-               <rect style="fill:#999;stroke:none;stroke-width:2.47642" id="rect320" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
+               <rect rx="0" transform="matrix(-0.8631108,0.50501461,0.50374905,0.86385004,0,0)" ry="0" y="264.60129" x="98.584892" height="5.0017872" width="19.992865" style="fill:#999;stroke:none;stroke-width:2.47642"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.992792" height="5.0018005" x="190.78946" y="-216.61035" ry="0" transform="matrix(0.86745383,0.49751769,0.49806845,-0.86713771,0,0)" rx="0"/>
+               <rect style="fill:#999;stroke:none;stroke-width:2.47642" width="19.999998" height="5" x="253.68503" y="50.329563" ry="0" transform="matrix(0.00461025,0.99998937,0.99999364,-0.00356563,0,0)" rx="0"/>
             </g>
          </g>
       </g>
-      <g style="fill:none;stroke:none;stroke-width:3.10652;stroke-miterlimit:4;stroke-dasharray:none" transform="matrix(0.19398922,-0.25580155,0.26414096,0.18585674,-22.758696,135.16512)" id="g603">
-         <g style="fill:none;stroke:none;stroke-width:3.10652;stroke-miterlimit:4;stroke-dasharray:none" id="g601">
-            <path style="fill:none;stroke:none;stroke-width:3.10652;stroke-miterlimit:4;stroke-dasharray:none" id="path599" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+      <g style="fill:none;stroke:none;stroke-width:3.10652;stroke-miterlimit:4;stroke-dasharray:none" transform="matrix(0.19398922,-0.25580155,0.26414096,0.18585674,-22.758696,135.16512)">
+         <g style="fill:none;stroke:none;stroke-width:3.10652;stroke-miterlimit:4;stroke-dasharray:none">
+            <path style="fill:none;stroke:none;stroke-width:3.10652;stroke-miterlimit:4;stroke-dasharray:none" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
          </g>
       </g>
-      <g transform="matrix(0.25062513,-0.20497981,0.21121886,0.24070317,14.00192,92.957228)" id="g629" style="stroke-width:3.10652">
-         <g style="stroke-width:3.10652" id="g627" transform="translate(120.23686,-139.05355)">
-            <g id="g619" transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
-               <g id="g617" style="fill:none;stroke-width:3.10651">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path615" style="fill:none;stroke-width:3.10651"/>
+      <g transform="matrix(0.25062513,-0.20497981,0.21121886,0.24070317,14.00192,92.957228)" style="stroke-width:3.10652">
+         <g style="stroke-width:3.10652" transform="translate(120.23686,-139.05355)">
+            <g transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
+               <g style="fill:none;stroke-width:3.10651">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.10651"/>
                </g>
             </g>
          </g>
       </g>
-      <g transform="matrix(0.29457537,-0.14009712,0.14378684,0.28338332,37.94966,61.699548)" id="g645" style="stroke-width:3.10652">
-         <g style="stroke-width:3.10652" id="g643" transform="translate(120.23686,-139.05355)">
-            <g id="g635" transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
-               <g id="g633" style="fill:none;stroke-width:3.10651">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path631" style="fill:none;stroke-width:3.10651"/>
+      <g transform="matrix(0.29457537,-0.14009712,0.14378684,0.28338332,37.94966,61.699548)" style="stroke-width:3.10652">
+         <g style="stroke-width:3.10652" transform="translate(120.23686,-139.05355)">
+            <g transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
+               <g style="fill:none;stroke-width:3.10651">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.10651"/>
                </g>
             </g>
          </g>
       </g>
-      <g transform="matrix(0.32028129,-0.06889111,0.06988801,0.30850135,68.80791,37.2257)" id="g661" style="stroke-width:3.10652">
-         <g style="stroke-width:3.10652" id="g659" transform="translate(120.23686,-139.05355)">
-            <g id="g651" transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
-               <g id="g649" style="fill:none;stroke-width:3.10651">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path647" style="fill:none;stroke-width:3.10651"/>
+      <g transform="matrix(0.32028129,-0.06889111,0.06988801,0.30850135,68.80791,37.2257)" style="stroke-width:3.10652">
+         <g style="stroke-width:3.10652" transform="translate(120.23686,-139.05355)">
+            <g transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
+               <g style="fill:none;stroke-width:3.10651">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.10651"/>
                </g>
             </g>
          </g>
       </g>
-      <g style="stroke-width:3.10652" id="g677" transform="matrix(0.32774888,0.00533309,-0.00705307,0.31604763,104.4763,20.66629)">
-         <g style="stroke-width:3.10652" transform="translate(120.23686,-139.05355)" id="g675">
-            <g style="fill:none;stroke-width:3.10651" transform="translate(-175.94714,100.15297)" id="g667">
-               <g style="fill:none;stroke-width:3.10651" id="g665">
-                  <path style="fill:none;stroke-width:3.10651" id="path663" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+      <g style="stroke-width:3.10652" transform="matrix(0.32774888,0.00533309,-0.00705307,0.31604763,104.4763,20.66629)">
+         <g style="stroke-width:3.10652" transform="translate(120.23686,-139.05355)">
+            <g style="fill:none;stroke-width:3.10651" transform="translate(-175.94714,100.15297)">
+               <g style="fill:none;stroke-width:3.10651">
+                  <path style="fill:none;stroke-width:3.10651" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                </g>
             </g>
          </g>
       </g>
-      <g transform="matrix(0.31686834,0.07965016,-0.08400487,0.30590266,143.38199,12.50321)" id="g693" style="stroke-width:3.10652">
-         <g style="stroke-width:3.10652" id="g691" transform="translate(120.23686,-139.05355)">
-            <g id="g683" transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
-               <g id="g681" style="fill:none;stroke-width:3.10651">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path679" style="fill:none;stroke-width:3.10651"/>
+      <g transform="matrix(0.31686834,0.07965016,-0.08400487,0.30590266,143.38199,12.50321)" style="stroke-width:3.10652">
+         <g style="stroke-width:3.10652" transform="translate(120.23686,-139.05355)">
+            <g transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
+               <g style="fill:none;stroke-width:3.10651">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.10651"/>
                </g>
             </g>
          </g>
       </g>
-      <g style="stroke-width:3.10652" id="g709" transform="matrix(0.28693119,0.15166154,-0.15847887,0.27737216,183.62098,13.40922)">
-         <g style="stroke-width:3.10652" transform="translate(120.23686,-139.05355)" id="g707">
-            <g style="fill:none;stroke-width:3.10651" transform="translate(-175.94714,100.15297)" id="g699">
-               <g style="fill:none;stroke-width:3.10651" id="g697">
-                  <path style="fill:none;stroke-width:3.10651" id="path695" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+      <g style="stroke-width:3.10652" transform="matrix(0.28693119,0.15166154,-0.15847887,0.27737216,183.62098,13.40922)">
+         <g style="stroke-width:3.10652" transform="translate(120.23686,-139.05355)">
+            <g style="fill:none;stroke-width:3.10651" transform="translate(-175.94714,100.15297)">
+               <g style="fill:none;stroke-width:3.10651">
+                  <path style="fill:none;stroke-width:3.10651" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                </g>
             </g>
          </g>
       </g>
-      <g transform="matrix(0.24222632,0.21200194,-0.22079135,0.23454791,221.62836,23.637381)" id="g725" style="stroke-width:3.10652">
-         <g style="stroke-width:3.10652" id="g723" transform="translate(120.23686,-139.05355)">
-            <g id="g715" transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
-               <g id="g713" style="fill:none;stroke-width:3.10651">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" id="path711" style="fill:none;stroke-width:3.10651"/>
+      <g transform="matrix(0.24222632,0.21200194,-0.22079135,0.23454791,221.62836,23.637381)" style="stroke-width:3.10652">
+         <g style="stroke-width:3.10652" transform="translate(120.23686,-139.05355)">
+            <g transform="translate(-175.94714,100.15297)" style="fill:none;stroke-width:3.10651">
+               <g style="fill:none;stroke-width:3.10651">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-5 80,0 l -5,70 q -30,-3 -70,0 z" style="fill:none;stroke-width:3.10651"/>
                </g>
             </g>
          </g>
       </g>
-      <g transform="rotate(-14.605029,-42.393943,712.39044)" id="g341">
-         <g style="fill:none;stroke-width:2.358" transform="matrix(-0.4194982,-0.06290762,0.0628775,-0.41929737,362.6291,404.02815)" id="g44">
-            <g style="fill:none;stroke-width:2.358" id="g42">
-               <path style="fill:none;stroke-width:2.358" id="path40" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+      <g transform="rotate(-14.605029,-42.393943,712.39044)">
+         <g style="fill:none;stroke-width:2.358" transform="matrix(-0.4194982,-0.06290762,0.0628775,-0.41929737,362.6291,404.02815)">
+            <g style="fill:none;stroke-width:2.358">
+               <path style="fill:none;stroke-width:2.358" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
             </g>
          </g>
-         <g id="g54" transform="matrix(-3.7366245,-0.56786112,0.56786112,-3.7366245,765.37226,795.47516)">
-            <path style="fill:none;stroke:gray;stroke-width:.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 149.78651,106.30006 c 6.7e-4,1.50276 -0.67513,2.22138 -2.22128,2.22113" id="path46"/>
-            <path id="path48" d="m 143.8975,106.30006 c -6.7e-4,1.50276 0.67513,2.22138 2.22128,2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-            <path id="path50" d="m 149.78651,105.15363 c 6.7e-4,-1.50276 -0.67513,-2.22138 -2.22128,-2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-            <path style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 143.8975,105.15363 c -6.7e-4,-1.50276 0.67513,-2.22138 2.22128,-2.22113" id="path52"/>
-         </g>
-      </g>
-      <g id="g359" transform="rotate(10.317108,600.14858,-513.9297)">
-         <g id="g347" transform="matrix(-0.4194982,-0.06290762,0.0628775,-0.41929737,362.6291,404.02815)" style="fill:none;stroke-width:2.358">
-            <g id="g345" style="fill:none;stroke-width:2.358">
-               <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" id="path343" style="fill:none;stroke-width:2.358"/>
-            </g>
-         </g>
-         <g transform="matrix(-3.7366245,-0.56786112,0.56786112,-3.7366245,765.37226,795.47516)" id="g357">
-            <path id="path349" d="m 149.78651,106.30006 c 6.7e-4,1.50276 -0.67513,2.22138 -2.22128,2.22113" style="fill:none;stroke:gray;stroke-width:.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-            <path style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 143.8975,106.30006 c -6.7e-4,1.50276 0.67513,2.22138 2.22128,2.22113" id="path351"/>
-            <path style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 149.78651,105.15363 c 6.7e-4,-1.50276 -0.67513,-2.22138 -2.22128,-2.22113" id="path353"/>
-            <path id="path355" d="m 143.8975,105.15363 c -6.7e-4,-1.50276 0.67513,-2.22138 2.22128,-2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+         <g transform="matrix(-3.7366245,-0.56786112,0.56786112,-3.7366245,765.37226,795.47516)">
+            <path style="fill:none;stroke:gray;stroke-width:.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 149.78651,106.30006 c 6.7e-4,1.50276 -0.67513,2.22138 -2.22128,2.22113"/>
+            <path d="m 143.8975,106.30006 c -6.7e-4,1.50276 0.67513,2.22138 2.22128,2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+            <path d="m 149.78651,105.15363 c 6.7e-4,-1.50276 -0.67513,-2.22138 -2.22128,-2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+            <path style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 143.8975,105.15363 c -6.7e-4,-1.50276 0.67513,-2.22138 2.22128,-2.22113"/>
          </g>
       </g>
-      <g transform="matrix(-0.92425145,0.38178432,0.38178432,0.92425145,333.29793,-159.94516)" id="g377">
-         <g style="fill:none;stroke-width:2.358" transform="matrix(-0.4194982,-0.06290762,0.0628775,-0.41929737,362.6291,404.02815)" id="g365">
-            <g style="fill:none;stroke-width:2.358" id="g363">
-               <path style="fill:none;stroke-width:2.358" id="path361" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+      <g transform="rotate(10.317108,600.14858,-513.9297)">
+         <g transform="matrix(-0.4194982,-0.06290762,0.0628775,-0.41929737,362.6291,404.02815)" style="fill:none;stroke-width:2.358">
+            <g style="fill:none;stroke-width:2.358">
+               <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" style="fill:none;stroke-width:2.358"/>
             </g>
          </g>
-         <g id="g375" transform="matrix(-3.7366245,-0.56786112,0.56786112,-3.7366245,765.37226,795.47516)">
-            <path style="fill:none;stroke:gray;stroke-width:.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 149.78651,106.30006 c 6.7e-4,1.50276 -0.67513,2.22138 -2.22128,2.22113" id="path367"/>
-            <path id="path369" d="m 143.8975,106.30006 c -6.7e-4,1.50276 0.67513,2.22138 2.22128,2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-            <path id="path371" d="m 149.78651,105.15363 c 6.7e-4,-1.50276 -0.67513,-2.22138 -2.22128,-2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-            <path style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 143.8975,105.15363 c -6.7e-4,-1.50276 0.67513,-2.22138 2.22128,-2.22113" id="path373"/>
+         <g transform="matrix(-3.7366245,-0.56786112,0.56786112,-3.7366245,765.37226,795.47516)">
+            <path d="m 149.78651,106.30006 c 6.7e-4,1.50276 -0.67513,2.22138 -2.22128,2.22113" style="fill:none;stroke:gray;stroke-width:.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+            <path style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 143.8975,106.30006 c -6.7e-4,1.50276 0.67513,2.22138 2.22128,2.22113"/>
+            <path style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 149.78651,105.15363 c 6.7e-4,-1.50276 -0.67513,-2.22138 -2.22128,-2.22113"/>
+            <path d="m 143.8975,105.15363 c -6.7e-4,-1.50276 0.67513,-2.22138 2.22128,-2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
          </g>
       </g>
-      <g style="stroke-width:1.0714" transform="matrix(0.9387631,-0.07504089,0.07133445,0.92228137,-110.52483,-28.787316)" id="g542">
-         <g style="stroke-width:1.0714" id="g410" transform="matrix(0.7554938,-0.65286621,0.65529484,0.75735914,-9.0189336,58.931618)">
-            <g id="g1277-7-6-0-1" transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)" style="fill:none;stroke-width:2.52636">
-               <g id="g1275-0-7-4-8" style="fill:none;stroke-width:2.52636">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" id="path1273-9-1-1-9" style="fill:none;stroke-width:2.52636"/>
-               </g>
-            </g>
-            <g style="stroke-width:1.0714" id="g1025" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)">
-               <path id="path982" d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759" id="path982-1"/>
-               <path id="path982-1-1" d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064" id="path1014"/>
-               <path id="path1016" d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+      <g transform="matrix(-0.92425145,0.38178432,0.38178432,0.92425145,333.29793,-159.94516)">
+         <g style="fill:none;stroke-width:2.358" transform="matrix(-0.4194982,-0.06290762,0.0628775,-0.41929737,362.6291,404.02815)">
+            <g style="fill:none;stroke-width:2.358">
+               <path style="fill:none;stroke-width:2.358" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
             </g>
          </g>
-         <g style="stroke-width:1.0714" transform="rotate(-20.445472,-38.345325,-225.89539)" id="g430">
-            <g style="fill:none;stroke-width:2.52636" transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)" id="g416">
-               <g style="fill:none;stroke-width:2.52636" id="g414">
-                  <path style="fill:none;stroke-width:2.52636" id="path412" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+         <g transform="matrix(-3.7366245,-0.56786112,0.56786112,-3.7366245,765.37226,795.47516)">
+            <path style="fill:none;stroke:gray;stroke-width:.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 149.78651,106.30006 c 6.7e-4,1.50276 -0.67513,2.22138 -2.22128,2.22113"/>
+            <path d="m 143.8975,106.30006 c -6.7e-4,1.50276 0.67513,2.22138 2.22128,2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+            <path d="m 149.78651,105.15363 c 6.7e-4,-1.50276 -0.67513,-2.22138 -2.22128,-2.22113" style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+            <path style="fill:none;stroke:gray;stroke-width:.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 143.8975,105.15363 c -6.7e-4,-1.50276 0.67513,-2.22138 2.22128,-2.22113"/>
+         </g>
+      </g>
+      <g style="stroke-width:1.0714" transform="matrix(0.9387631,-0.07504089,0.07133445,0.92228137,-110.52483,-28.787316)">
+         <g style="stroke-width:1.0714" transform="matrix(0.7554938,-0.65286621,0.65529484,0.75735914,-9.0189336,58.931618)">
+            <g transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)" style="fill:none;stroke-width:2.52636">
+               <g style="fill:none;stroke-width:2.52636">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" style="fill:none;stroke-width:2.52636"/>
                </g>
             </g>
-            <g style="stroke-width:1.0714" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)" id="g428">
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349" id="path418"/>
-               <path id="path420" d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064" id="path422"/>
-               <path id="path424" d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518" id="path426"/>
+            <g style="stroke-width:1.0714" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)">
+               <path d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759"/>
+               <path d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064"/>
+               <path d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
             </g>
          </g>
-         <g style="stroke-width:1.0714" id="g450" transform="matrix(0.99653972,0.08377691,-0.08341341,0.99645991,208.72487,-84.171786)">
-            <g id="g436" transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)" style="fill:none;stroke-width:2.52636">
-               <g id="g434" style="fill:none;stroke-width:2.52636">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" id="path432" style="fill:none;stroke-width:2.52636"/>
+         <g style="stroke-width:1.0714" transform="rotate(-20.445472,-38.345325,-225.89539)">
+            <g style="fill:none;stroke-width:2.52636" transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)">
+               <g style="fill:none;stroke-width:2.52636">
+                  <path style="fill:none;stroke-width:2.52636" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                </g>
             </g>
-            <g style="stroke-width:1.0714" id="g448" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)">
-               <path id="path438" d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759" id="path440"/>
-               <path id="path442" d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064" id="path444"/>
-               <path id="path446" d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+            <g style="stroke-width:1.0714" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)">
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349"/>
+               <path d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064"/>
+               <path d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518"/>
             </g>
          </g>
-         <g style="stroke-width:1.0714" transform="rotate(29.481336,326.31517,625.24926)" id="g470">
-            <g style="fill:none;stroke-width:2.52636" transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)" id="g456">
-               <g style="fill:none;stroke-width:2.52636" id="g454">
-                  <path style="fill:none;stroke-width:2.52636" id="path452" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
+         <g style="stroke-width:1.0714" transform="matrix(0.99653972,0.08377691,-0.08341341,0.99645991,208.72487,-84.171786)">
+            <g transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)" style="fill:none;stroke-width:2.52636">
+               <g style="fill:none;stroke-width:2.52636">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" style="fill:none;stroke-width:2.52636"/>
                </g>
             </g>
-            <g style="stroke-width:1.0714" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)" id="g468">
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349" id="path458"/>
-               <path id="path460" d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064" id="path462"/>
-               <path id="path464" d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518" id="path466"/>
+            <g style="stroke-width:1.0714" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)">
+               <path d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759"/>
+               <path d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064"/>
+               <path d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
             </g>
          </g>
-         <g style="stroke-width:1.0714" id="g490" transform="matrix(0.62675467,0.77727504,-0.7787169,0.62978835,465.16371,-25.880657)">
-            <g id="g476" transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)" style="fill:none;stroke-width:2.52636">
-               <g id="g474" style="fill:none;stroke-width:2.52636">
-                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" id="path472" style="fill:none;stroke-width:2.52636"/>
+         <g style="stroke-width:1.0714" transform="rotate(29.481336,326.31517,625.24926)">
+            <g style="fill:none;stroke-width:2.52636" transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)">
+               <g style="fill:none;stroke-width:2.52636">
+                  <path style="fill:none;stroke-width:2.52636" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" stroke-width="11.7566" stroke="#808080" fill="transparent"/>
                </g>
             </g>
-            <g style="stroke-width:1.0714" id="g488" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)">
-               <path id="path478" d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759" id="path480"/>
-               <path id="path482" d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064" id="path484"/>
-               <path id="path486" d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+            <g style="stroke-width:1.0714" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)">
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349"/>
+               <path d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064"/>
+               <path d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518"/>
+            </g>
+         </g>
+         <g style="stroke-width:1.0714" transform="matrix(0.62675467,0.77727504,-0.7787169,0.62978835,465.16371,-25.880657)">
+            <g transform="matrix(0.42172657,-0.04563774,0.04561589,0.42152468,-26.914177,177.35408)" style="fill:none;stroke-width:2.52636">
+               <g style="fill:none;stroke-width:2.52636">
+                  <path fill="transparent" stroke="#808080" stroke-width="11.7566" d="m 190,140 q 45,-8 80,0 l -8,70 q -30,-6 -62,0 z" style="fill:none;stroke-width:2.52636"/>
+               </g>
+            </g>
+            <g style="stroke-width:1.0714" transform="matrix(3.7583823,-0.39923851,0.39923851,3.7583823,-83.106323,-59.105887)">
+               <path d="m 32.948827,80.789059 1.200573,-0.906183 1.187782,0.919349" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 35.893687,81.22157 1.190086,0.91276 -0.447155,1.422759"/>
+               <path d="m 36.395968,84.330368 -0.441516,1.426233 -1.493883,-0.0064" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+               <path style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 31.886377,84.330368 0.441516,1.426233 1.493883,-0.0064"/>
+               <path d="m 32.403272,81.213225 -1.195053,0.906247 0.43938,1.42518" style="fill:none;stroke:gray;stroke-width:.283474px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
             </g>
          </g>
       </g>
    </g>
-   <!-- <image y="103.37049" x="286.62906" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image379" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image379-2" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="296.38681" y="139.08807"/>
-   <image y="171.40355" x="291.36655" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image379-2-3" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image379-2-3-5" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="284.76886" y="206.00397"/>
-   <image y="236.91171" x="266.82242" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image437" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image439" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="242.56151" y="261.83731"/>
-   <image y="279.78375" x="212.31845" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image441" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image443" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="180.74603" y="290.08633"/>
-   <image y="290.75262" x="121.70041" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image445" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image447" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="90.460327" y="278.78833"/>
-   <image y="260.84189" x="60.881954" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image449" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image451" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="36.2887" y="235.25162"/>
-   <image y="205.3409" x="20.668661" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image453" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image455" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="9.3690577" y="169.78038"/>
-   <image y="137.78038" x="9.3690577" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image457" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image459" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="17.012907" y="103.54923"/>
-   <image y="53.03336" x="46.591282" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image461" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image463" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="73.510925" y="32.09586"/>
-   <image y="16.143478" x="101.75993" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image465" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image467" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="135.3264" y="8.1672878"/>
-   <image y="8.1672878" x="167.3264" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image469" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image471" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="198.89882" y="15.811137"/>
-   <image y="30.766495" x="231.46826" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image473" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image475" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="257.05853" y="54.030384"/>
-   <image y="118.50459" x="262.04364" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image477" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image479" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="267.72809" y="145.75276"/>
-   <image y="172.67241" x="266.73108" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image483" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image485" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="258.42255" y="197.93034"/>
-   <image y="221.85892" x="246.45827" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image487" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image489" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="226.51779" y="242.79642"/>
-   <image y="258.08411" x="204.25093" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image491" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image493" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="176.99895" y="266.72498"/>
-   <image y="264.39859" x="131.13585" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image495" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image497" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="106.54259" y="255.75772"/>
-   <image y="240.80237" x="81.949333" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image499" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image501" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="63.670563" y="221.85892"/>
-   <image y="196.93332" x="51.706276" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image503" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image505" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="42.733063" y="170.34602"/>
-   <image y="144.75575" x="42.068378" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image507" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image509" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="47.053497" y="118.16845"/>
-   <image y="58.679363" x="91.254883" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image511" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image513" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="70.317383" y="72.970039"/>
-   <image y="45.718056" x="114.18643" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image515" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image517" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="140.77373" y="38.738888"/>
-   <image y="39.735912" x="165.69933" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image519" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image521" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="193.28365" y="45.053371"/>
-   <image y="57.017658" x="217.87689" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image523" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" style="stroke-width:1.23077"/>
-   <image style="stroke-width:1.23077" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image525" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="237.81737" y="74.631744"/>
-   <image y="98.231773" x="96.205353" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image529" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image531" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="121.13095" y="80.285347"/>
-   <image y="74.3032" x="152.37102" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image533" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image535" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="184.27579" y="79.953003"/>
-   <image y="98.56411" x="208.86903" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image537" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image539" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="183.94345" y="216.87761"/>
-   <image y="224.18912" x="151.70634" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" id="image541" sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png"/>
-   <image sodipodi:absref="C:\Users\ddouglas\Downloads\icon.png" id="image543" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="117.80753" y="217.54228"/> -->
+   <image y="103.37049" x="286.62906" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="296.38681" y="139.08807"/>
+   <image y="171.40355" x="291.36655" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="284.76886" y="206.00397"/>
+   <image y="236.91171" x="266.82242" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="242.56151" y="261.83731"/>
+   <image y="279.78375" x="212.31845" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="180.74603" y="290.08633"/>
+   <image y="290.75262" x="121.70041" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="90.460327" y="278.78833"/>
+   <image y="260.84189" x="60.881954" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="36.2887" y="235.25162"/>
+   <image y="205.3409" x="20.668661" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="9.3690577" y="169.78038"/>
+   <image y="137.78038" x="9.3690577" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="17.012907" y="103.54923"/>
+   <image y="53.03336" x="46.591282" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="73.510925" y="32.09586"/>
+   <image y="16.143478" x="101.75993" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="135.3264" y="8.1672878"/>
+   <image y="8.1672878" x="167.3264" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="198.89882" y="15.811137"/>
+   <image y="30.766495" x="231.46826" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="257.05853" y="54.030384"/>
+   <image y="118.50459" x="262.04364" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="267.72809" y="145.75276"/>
+   <image y="172.67241" x="266.73108" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="258.42255" y="197.93034"/>
+   <image y="221.85892" x="246.45827" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="226.51779" y="242.79642"/>
+   <image y="258.08411" x="204.25093" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="176.99895" y="266.72498"/>
+   <image y="264.39859" x="131.13585" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="106.54259" y="255.75772"/>
+   <image y="240.80237" x="81.949333" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="63.670563" y="221.85892"/>
+   <image y="196.93332" x="51.706276" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="42.733063" y="170.34602"/>
+   <image y="144.75575" x="42.068378" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="47.053497" y="118.16845"/>
+   <image y="58.679363" x="91.254883" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="70.317383" y="72.970039"/>
+   <image y="45.718056" x="114.18643" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="140.77373" y="38.738888"/>
+   <image y="39.735912" x="165.69933" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="193.28365" y="45.053371"/>
+   <image y="57.017658" x="217.87689" width="26" height="26" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32" style="stroke-width:1.23077"/>
+   <image style="stroke-width:1.23077" xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="26" width="26" x="237.81737" y="74.631744"/>
+   <image y="98.231773" x="96.205353" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="121.13095" y="80.285347"/>
+   <image y="74.3032" x="152.37102" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="184.27579" y="79.953003"/>
+   <image y="98.56411" x="208.86903" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="183.94345" y="216.87761"/>
+   <image y="224.18912" x="151.70634" width="32" height="32" preserveAspectRatio="none" xlink:href="https://images.evetech.net/types/41441/icon?size=32"/>
+   <image xlink:href="https://images.evetech.net/types/41441/icon?size=32" preserveAspectRatio="none" height="32" width="32" x="117.80753" y="217.54228"/>
 </svg>
